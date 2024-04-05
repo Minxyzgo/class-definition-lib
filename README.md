@@ -75,7 +75,7 @@ $.defineClass("example", {
 ```
 You can define your new fields and methods in `public`, `protected` and `private` block.
 
-`override` block is used for overloading superclass methods. And you cannot define any new fields and methods here.
+`override` block is used for overriding superclass methods. And you cannot define any new fields or methods here.
 
 ### identifiers
 There are some special identifiers in the lib, which can fix some annoying problems.
