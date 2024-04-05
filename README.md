@@ -1,8 +1,8 @@
-# ClassDefination
+# ClassDefinition
 ### example
 `> main.js`
 ```js
-const $ = require("classDefination/classDefination")
+const $ = require("classDefinition/classDefinition")
 const customImageButtonClass = $.defineClass("example.CustomImageButton", ImageButton,
   {
     public: {
