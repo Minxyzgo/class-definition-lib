@@ -1,0 +1,8 @@
+name: "classDefination"
+displayName: "Class-Defination-Lib"
+author: "Minxyzgo"
+description: "ClassDefination: Library for other mods define js class."
+version: 0.1
+minGameVersion: 146
+hidden: true
+repo: "Minxyzgo/class-defination-lib"
